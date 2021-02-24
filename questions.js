@@ -3,9 +3,9 @@ let questions = [
     {
     numb: 1,
     question: "What does DSC stand for?",
-    answer: "Developer Student Club",
+    answer: "Developer Student Clubs",
     options: [
-      "Developer Student Club",
+      "Developer Student Clubs",
       "Developer SRM Club",
       "Developer SRM Commitee",
       "Developer Student Community"
